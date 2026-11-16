@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-backup-deduplication"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS backup-deduplication component - backup"
+
+[lib]
+name = "backup_deduplication"
+path = "src/lib.rs"
