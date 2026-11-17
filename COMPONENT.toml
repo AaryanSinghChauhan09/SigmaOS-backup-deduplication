@@ -3,7 +3,7 @@ name = "SigmaOS-backup-deduplication"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "backup-deduplication component"
+description = "Backup Deduplication"
 upstream = []
 
 [contract]
